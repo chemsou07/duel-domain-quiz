@@ -1,267 +1,227 @@
 {
   "categories": {
-    "Images": {
+    "الصور": {
       "questions": [
         {
-          "question": "What landmark is shown in this image?",
+          "question": "ما هو المعلم الظاهر في هذه الصورة؟",
           "image": "landmark1.jpg",
-          "options": ["Eiffel Tower", "Big Ben", "Statue of Liberty", "Colosseum"],
-          "correct": "Eiffel Tower",
+          "answer": "برج إيفل",
           "points": 10
         },
         {
-          "question": "Which animal is this?",
+          "question": "ما هو الحيوان الظاهر في الصورة؟",
           "image": "animal1.jpg",
-          "options": ["Leopard", "Cheetah", "Jaguar", "Tiger"],
-          "correct": "Cheetah",
+          "answer": "فهد",
           "points": 10
         },
         {
-          "question": "What brand logo is this?",
+          "question": "ما هو شعار العلامة التجارية هذا؟",
           "image": "logo1.jpg",
-          "options": ["Apple", "Microsoft", "Samsung", "Sony"],
-          "correct": "Apple",
+          "answer": "آبل",
           "points": 10
         },
         {
-          "question": "Which city skyline is shown?",
+          "question": "أي مدينة يظهر أفقها في الصورة؟",
           "image": "city1.jpg",
-          "options": ["New York", "Dubai", "Tokyo", "Hong Kong"],
-          "correct": "New York",
+          "answer": "نيويورك",
           "points": 10
         },
         {
-          "question": "What type of flower is this?",
+          "question": "ما نوع هذه الزهرة؟",
           "image": "flower1.jpg",
-          "options": ["Rose", "Tulip", "Sunflower", "Daisy"],
-          "correct": "Sunflower",
+          "answer": "دوار الشمس",
           "points": 10
         },
         {
-          "question": "Which famous painting is this?",
+          "question": "ما هي اللوحة الشهيرة الظاهرة؟",
           "image": "painting1.jpg",
-          "options": ["Mona Lisa", "Starry Night", "The Scream", "Girl with Pearl Earring"],
-          "correct": "Mona Lisa",
+          "answer": "الموناليزا",
           "points": 10
         },
         {
-          "question": "What car model is this?",
+          "question": "ما هو طراز هذه السيارة؟",
           "image": "car1.jpg",
-          "options": ["Ferrari F40", "Lamborghini Countach", "Porsche 911", "McLaren F1"],
-          "correct": "Ferrari F40",
+          "answer": "فيراري F40",
           "points": 10
         },
         {
-          "question": "Which country's flag is shown?",
+          "question": "علم أي دولة يظهر في الصورة؟",
           "image": "flag1.jpg",
-          "options": ["Canada", "USA", "Mexico", "Brazil"],
-          "correct": "Canada",
+          "answer": "كندا",
           "points": 10
         },
         {
-          "question": "What type of architecture is this?",
+          "question": "ما نوع العمارة الظاهرة؟",
           "image": "building1.jpg",
-          "options": ["Gothic", "Baroque", "Modern", "Art Deco"],
-          "correct": "Gothic",
+          "answer": "قوطية",
           "points": 10
         },
         {
-          "question": "Which instrument is this?",
+          "question": "ما هي الآلة الموسيقية الظاهرة؟",
           "image": "instrument1.jpg",
-          "options": ["Violin", "Viola", "Cello", "Double Bass"],
-          "correct": "Cello",
+          "answer": "التشيلو",
           "points": 10
         }
       ]
     },
-    "History": {
+    "التاريخ": {
       "questions": [
         {
-          "question": "In which year did World War II end?",
-          "options": ["1943", "1944", "1945", "1946"],
-          "correct": "1945",
+          "question": "في أي سنة انتهت الحرب العالمية الثانية؟",
+          "answer": "1945",
           "points": 10
         },
         {
-          "question": "Who was the first President of the United States?",
-          "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
-          "correct": "George Washington",
+          "question": "من هو أول رئيس للولايات المتحدة؟",
+          "answer": "جورج واشنطن",
           "points": 10
         },
         {
-          "question": "The ancient city of Rome was founded in which year approximately?",
-          "options": ["753 BC", "500 BC", "1000 BC", "250 BC"],
-          "correct": "753 BC",
+          "question": "في أي سنة تقريباً تأسست مدينة روما القديمة؟",
+          "answer": "753 قبل الميلاد",
           "points": 10
         },
         {
-          "question": "Which empire built Machu Picchu?",
-          "options": ["Aztec", "Maya", "Inca", "Olmec"],
-          "correct": "Inca",
+          "question": "أي إمبراطورية بنت ماتشو بيتشو؟",
+          "answer": "الإنكا",
           "points": 10
         },
         {
-          "question": "The French Revolution began in which year?",
-          "options": ["1789", "1799", "1776", "1800"],
-          "correct": "1789",
+          "question": "في أي سنة بدأت الثورة الفرنسية؟",
+          "answer": "1789",
           "points": 10
         },
         {
-          "question": "Who was the first person to walk on the moon?",
-          "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
-          "correct": "Neil Armstrong",
+          "question": "من هو أول شخص مشى على القمر؟",
+          "answer": "نيل أرمسترونج",
           "points": 10
         },
         {
-          "question": "The Berlin Wall fell in which year?",
-          "options": ["1987", "1988", "1989", "1990"],
-          "correct": "1989",
+          "question": "في أي سنة سقط جدار برلين؟",
+          "answer": "1989",
           "points": 10
         },
         {
-          "question": "Which ancient wonder of the world still stands today?",
-          "options": ["Colossus of Rhodes", "Hanging Gardens", "Great Pyramid of Giza", "Lighthouse of Alexandria"],
-          "correct": "Great Pyramid of Giza",
+          "question": "أي من عجائب الدنيا السبع القديمة لا تزال قائمة اليوم؟",
+          "answer": "الهرم الأكبر بالجيزة",
           "points": 10
         },
         {
-          "question": "Who discovered America in 1492?",
-          "options": ["Amerigo Vespucci", "Christopher Columbus", "Leif Erikson", "Ferdinand Magellan"],
-          "correct": "Christopher Columbus",
+          "question": "من اكتشف أمريكا عام 1492؟",
+          "answer": "كريستوفر كولومبوس",
           "points": 10
         },
         {
-          "question": "The Renaissance period began in which country?",
-          "options": ["France", "Spain", "Italy", "England"],
-          "correct": "Italy",
+          "question": "في أي بلد بدأت فترة النهضة؟",
+          "answer": "إيطاليا",
           "points": 10
         }
       ]
     },
-    "Rank": {
+    "الرتب": {
       "questions": [
         {
-          "question": "What is the highest military rank in the US Army?",
-          "options": ["Colonel", "General", "Lieutenant General", "Five-Star General"],
-          "correct": "Five-Star General",
+          "question": "ما هي أعلى رتبة عسكرية في الجيش الأمريكي؟",
+          "answer": "جنرال خمس نجوم",
           "points": 10
         },
         {
-          "question": "In chess, which piece can move in an L-shape?",
-          "options": ["Bishop", "Rook", "Knight", "Queen"],
-          "correct": "Knight",
+          "question": "في الشطرنج، أي قطعة تتحرك على شكل حرف L؟",
+          "answer": "الحصان",
           "points": 10
         },
         {
-          "question": "What is the highest rank in the British nobility below the monarch?",
-          "options": ["Duke", "Marquess", "Earl", "Viscount"],
-          "correct": "Duke",
+          "question": "ما هي أعلى رتبة في النبالة البريطانية تحت الملك؟",
+          "answer": "دوق",
           "points": 10
         },
         {
-          "question": "In poker, which hand ranks higher?",
-          "options": ["Full House", "Flush", "Straight", "Three of a Kind"],
-          "correct": "Full House",
+          "question": "في البوكر، أي يد تحتل مرتبة أعلى: فل هاوس أم فلاش؟",
+          "answer": "فل هاوس",
           "points": 10
         },
         {
-          "question": "What is the highest rank in the US Navy?",
-          "options": ["Admiral", "Vice Admiral", "Fleet Admiral", "Rear Admiral"],
-          "correct": "Fleet Admiral",
+          "question": "ما هي أعلى رتبة في البحرية الأمريكية؟",
+          "answer": "أدميرال الأسطول",
           "points": 10
         },
         {
-          "question": "In martial arts, what color belt typically represents the highest rank?",
-          "options": ["Red", "Black", "White", "Brown"],
-          "correct": "Black",
+          "question": "في الفنون القتالية، أي لون حزام يمثل عادة أعلى رتبة؟",
+          "answer": "الأسود",
           "points": 10
         },
         {
-          "question": "What is the second-highest mountain in the world?",
-          "options": ["Kangchenjunga", "Lhotse", "K2", "Makalu"],
-          "correct": "K2",
+          "question": "ما هو ثاني أعلى جبل في العالم؟",
+          "answer": "K2",
           "points": 10
         },
         {
-          "question": "In corporate hierarchy, what comes after CEO?",
-          "options": ["CFO", "COO", "CTO", "Board of Directors"],
-          "correct": "Board of Directors",
+          "question": "في التسلسل الهرمي للشركات، ماذا يأتي بعد الرئيس التنفيذي؟",
+          "answer": "مجلس الإدارة",
           "points": 10
         },
         {
-          "question": "What is the highest academic degree?",
-          "options": ["Master's", "Doctorate", "Bachelor's", "Associate's"],
-          "correct": "Doctorate",
+          "question": "ما هي أعلى درجة أكاديمية؟",
+          "answer": "الدكتوراه",
           "points": 10
         },
         {
-          "question": "In the Catholic Church, what rank comes after Pope?",
-          "options": ["Bishop", "Cardinal", "Archbishop", "Priest"],
-          "correct": "Cardinal",
+          "question": "في الكنيسة الكاثوليكية، أي رتبة تأتي بعد البابا؟",
+          "answer": "الكاردينال",
           "points": 10
         }
       ]
     },
-    "Other": {
+    "متنوعات": {
       "questions": [
         {
-          "question": "What is the chemical symbol for gold?",
-          "options": ["Go", "Gd", "Au", "Ag"],
-          "correct": "Au",
+          "question": "ما هو الرمز الكيميائي للذهب؟",
+          "answer": "Au",
           "points": 10
         },
         {
-          "question": "How many legs does a spider have?",
-          "options": ["6", "8", "10", "12"],
-          "correct": "8",
+          "question": "كم عدد أرجل العنكبوت؟",
+          "answer": "8",
           "points": 10
         },
         {
-          "question": "What is the largest ocean on Earth?",
-          "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
-          "correct": "Pacific",
+          "question": "ما هو أكبر محيط على الأرض؟",
+          "answer": "المحيط الهادئ",
           "points": 10
         },
         {
-          "question": "Who wrote 'Romeo and Juliet'?",
-          "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-          "correct": "William Shakespeare",
+          "question": "من كتب 'روميو وجولييت'؟",
+          "answer": "وليام شكسبير",
           "points": 10
         },
         {
-          "question": "What is the speed of light in a vacuum?",
-          "options": ["299,792 km/s", "150,000 km/s", "450,000 km/s", "100,000 km/s"],
-          "correct": "299,792 km/s",
+          "question": "ما هي سرعة الضوء في الفراغ؟",
+          "answer": "299,792 كم/ثانية",
           "points": 10
         },
         {
-          "question": "Which planet is known as the Red Planet?",
-          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
-          "correct": "Mars",
+          "question": "أي كوكب يُعرف بالكوكب الأحمر؟",
+          "answer": "المريخ",
           "points": 10
         },
         {
-          "question": "What is the smallest country in the world?",
-          "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
-          "correct": "Vatican City",
+          "question": "ما هي أصغر دولة في العالم؟",
+          "answer": "الفاتيكان",
           "points": 10
         },
         {
-          "question": "How many bones are in the adult human body?",
-          "options": ["196", "206", "216", "226"],
-          "correct": "206",
+          "question": "كم عدد العظام في جسم الإنسان البالغ؟",
+          "answer": "206",
           "points": 10
         },
         {
-          "question": "What is the hardest natural substance on Earth?",
-          "options": ["Diamond", "Titanium", "Graphene", "Steel"],
-          "correct": "Diamond",
+          "question": "ما هي أصلب مادة طبيعية على الأرض؟",
+          "answer": "الألماس",
           "points": 10
         },
         {
-          "question": "In which year was the internet invented?",
-          "options": ["1969", "1975", "1983", "1991"],
-          "correct": "1983",
+          "question": "في أي سنة تم اختراع الإنترنت؟",
+          "answer": "1983",
           "points": 10
         }
       ]
