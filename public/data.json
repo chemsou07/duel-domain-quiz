@@ -1,0 +1,270 @@
+{
+  "categories": {
+    "Images": {
+      "questions": [
+        {
+          "question": "What landmark is shown in this image?",
+          "image": "landmark1.jpg",
+          "options": ["Eiffel Tower", "Big Ben", "Statue of Liberty", "Colosseum"],
+          "correct": "Eiffel Tower",
+          "points": 10
+        },
+        {
+          "question": "Which animal is this?",
+          "image": "animal1.jpg",
+          "options": ["Leopard", "Cheetah", "Jaguar", "Tiger"],
+          "correct": "Cheetah",
+          "points": 10
+        },
+        {
+          "question": "What brand logo is this?",
+          "image": "logo1.jpg",
+          "options": ["Apple", "Microsoft", "Samsung", "Sony"],
+          "correct": "Apple",
+          "points": 10
+        },
+        {
+          "question": "Which city skyline is shown?",
+          "image": "city1.jpg",
+          "options": ["New York", "Dubai", "Tokyo", "Hong Kong"],
+          "correct": "New York",
+          "points": 10
+        },
+        {
+          "question": "What type of flower is this?",
+          "image": "flower1.jpg",
+          "options": ["Rose", "Tulip", "Sunflower", "Daisy"],
+          "correct": "Sunflower",
+          "points": 10
+        },
+        {
+          "question": "Which famous painting is this?",
+          "image": "painting1.jpg",
+          "options": ["Mona Lisa", "Starry Night", "The Scream", "Girl with Pearl Earring"],
+          "correct": "Mona Lisa",
+          "points": 10
+        },
+        {
+          "question": "What car model is this?",
+          "image": "car1.jpg",
+          "options": ["Ferrari F40", "Lamborghini Countach", "Porsche 911", "McLaren F1"],
+          "correct": "Ferrari F40",
+          "points": 10
+        },
+        {
+          "question": "Which country's flag is shown?",
+          "image": "flag1.jpg",
+          "options": ["Canada", "USA", "Mexico", "Brazil"],
+          "correct": "Canada",
+          "points": 10
+        },
+        {
+          "question": "What type of architecture is this?",
+          "image": "building1.jpg",
+          "options": ["Gothic", "Baroque", "Modern", "Art Deco"],
+          "correct": "Gothic",
+          "points": 10
+        },
+        {
+          "question": "Which instrument is this?",
+          "image": "instrument1.jpg",
+          "options": ["Violin", "Viola", "Cello", "Double Bass"],
+          "correct": "Cello",
+          "points": 10
+        }
+      ]
+    },
+    "History": {
+      "questions": [
+        {
+          "question": "In which year did World War II end?",
+          "options": ["1943", "1944", "1945", "1946"],
+          "correct": "1945",
+          "points": 10
+        },
+        {
+          "question": "Who was the first President of the United States?",
+          "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+          "correct": "George Washington",
+          "points": 10
+        },
+        {
+          "question": "The ancient city of Rome was founded in which year approximately?",
+          "options": ["753 BC", "500 BC", "1000 BC", "250 BC"],
+          "correct": "753 BC",
+          "points": 10
+        },
+        {
+          "question": "Which empire built Machu Picchu?",
+          "options": ["Aztec", "Maya", "Inca", "Olmec"],
+          "correct": "Inca",
+          "points": 10
+        },
+        {
+          "question": "The French Revolution began in which year?",
+          "options": ["1789", "1799", "1776", "1800"],
+          "correct": "1789",
+          "points": 10
+        },
+        {
+          "question": "Who was the first person to walk on the moon?",
+          "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+          "correct": "Neil Armstrong",
+          "points": 10
+        },
+        {
+          "question": "The Berlin Wall fell in which year?",
+          "options": ["1987", "1988", "1989", "1990"],
+          "correct": "1989",
+          "points": 10
+        },
+        {
+          "question": "Which ancient wonder of the world still stands today?",
+          "options": ["Colossus of Rhodes", "Hanging Gardens", "Great Pyramid of Giza", "Lighthouse of Alexandria"],
+          "correct": "Great Pyramid of Giza",
+          "points": 10
+        },
+        {
+          "question": "Who discovered America in 1492?",
+          "options": ["Amerigo Vespucci", "Christopher Columbus", "Leif Erikson", "Ferdinand Magellan"],
+          "correct": "Christopher Columbus",
+          "points": 10
+        },
+        {
+          "question": "The Renaissance period began in which country?",
+          "options": ["France", "Spain", "Italy", "England"],
+          "correct": "Italy",
+          "points": 10
+        }
+      ]
+    },
+    "Rank": {
+      "questions": [
+        {
+          "question": "What is the highest military rank in the US Army?",
+          "options": ["Colonel", "General", "Lieutenant General", "Five-Star General"],
+          "correct": "Five-Star General",
+          "points": 10
+        },
+        {
+          "question": "In chess, which piece can move in an L-shape?",
+          "options": ["Bishop", "Rook", "Knight", "Queen"],
+          "correct": "Knight",
+          "points": 10
+        },
+        {
+          "question": "What is the highest rank in the British nobility below the monarch?",
+          "options": ["Duke", "Marquess", "Earl", "Viscount"],
+          "correct": "Duke",
+          "points": 10
+        },
+        {
+          "question": "In poker, which hand ranks higher?",
+          "options": ["Full House", "Flush", "Straight", "Three of a Kind"],
+          "correct": "Full House",
+          "points": 10
+        },
+        {
+          "question": "What is the highest rank in the US Navy?",
+          "options": ["Admiral", "Vice Admiral", "Fleet Admiral", "Rear Admiral"],
+          "correct": "Fleet Admiral",
+          "points": 10
+        },
+        {
+          "question": "In martial arts, what color belt typically represents the highest rank?",
+          "options": ["Red", "Black", "White", "Brown"],
+          "correct": "Black",
+          "points": 10
+        },
+        {
+          "question": "What is the second-highest mountain in the world?",
+          "options": ["Kangchenjunga", "Lhotse", "K2", "Makalu"],
+          "correct": "K2",
+          "points": 10
+        },
+        {
+          "question": "In corporate hierarchy, what comes after CEO?",
+          "options": ["CFO", "COO", "CTO", "Board of Directors"],
+          "correct": "Board of Directors",
+          "points": 10
+        },
+        {
+          "question": "What is the highest academic degree?",
+          "options": ["Master's", "Doctorate", "Bachelor's", "Associate's"],
+          "correct": "Doctorate",
+          "points": 10
+        },
+        {
+          "question": "In the Catholic Church, what rank comes after Pope?",
+          "options": ["Bishop", "Cardinal", "Archbishop", "Priest"],
+          "correct": "Cardinal",
+          "points": 10
+        }
+      ]
+    },
+    "Other": {
+      "questions": [
+        {
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "correct": "Au",
+          "points": 10
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "options": ["6", "8", "10", "12"],
+          "correct": "8",
+          "points": 10
+        },
+        {
+          "question": "What is the largest ocean on Earth?",
+          "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+          "correct": "Pacific",
+          "points": 10
+        },
+        {
+          "question": "Who wrote 'Romeo and Juliet'?",
+          "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+          "correct": "William Shakespeare",
+          "points": 10
+        },
+        {
+          "question": "What is the speed of light in a vacuum?",
+          "options": ["299,792 km/s", "150,000 km/s", "450,000 km/s", "100,000 km/s"],
+          "correct": "299,792 km/s",
+          "points": 10
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correct": "Mars",
+          "points": 10
+        },
+        {
+          "question": "What is the smallest country in the world?",
+          "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+          "correct": "Vatican City",
+          "points": 10
+        },
+        {
+          "question": "How many bones are in the adult human body?",
+          "options": ["196", "206", "216", "226"],
+          "correct": "206",
+          "points": 10
+        },
+        {
+          "question": "What is the hardest natural substance on Earth?",
+          "options": ["Diamond", "Titanium", "Graphene", "Steel"],
+          "correct": "Diamond",
+          "points": 10
+        },
+        {
+          "question": "In which year was the internet invented?",
+          "options": ["1969", "1975", "1983", "1991"],
+          "correct": "1983",
+          "points": 10
+        }
+      ]
+    }
+  }
+}
