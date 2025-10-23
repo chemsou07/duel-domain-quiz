@@ -3,63 +3,63 @@
     "الصور": {
       "questions": [
         {
-          "question": "من العضو ؟",
+          "question": "من هذا؟",
           "image": "ammar.png",
-          "answer": "عمار",
+          "answer": "الإجابة",
           "points": 10
         },
         {
-          "question": "من العضو ؟",
-          "image": "بدر.png",
-          "answer": "بدر",
-          "points": 10
-        },
-        {
-          "question": "من العضو ؟",
+          "question": "من هذا؟",
           "image": "احمد ثورفين.png",
-          "answer": "احمد ثورفين",
+          "answer": "الإجابة",
           "points": 10
         },
         {
-          "question": "من العضو ؟",
-          "image": "خويلد.png",
-          "answer": "خويلد",
+          "question": "من هذا؟",
+          "image": "بدر.png",
+          "answer": "الإجابة",
           "points": 10
         },
         {
-          "question": "من العضو ؟",
-          "image": "رعد.png",
-          "answer": "رعد",
-          "points": 10
-        },
-        {
-          "question": "من العضو ؟",
-          "image": "سامر.png",
-          "answer": "سامر",
-          "points": 10
-        },
-        {
-          "question": "من العضو ؟",
-          "image": "وليد.png",
-          "answer": "وليد",
-          "points": 10
-        },
-        {
-          "question": "من العضو ؟",
-          "image": "عمار مرة ثانية.png",
-          "answer": "عمار",
-          "points": 10
-        },
-        {
-          "question": "من هذا ؟",
+          "question": "من هذا؟",
           "image": "بيسكي.png",
-          "answer": "بيسكي",
+          "answer": "الإجابة",
           "points": 10
         },
         {
-          "question": "من هذا ؟",
+          "question": "من هذا؟",
           "image": "جيلي.png",
-          "answer": "جيلي",
+          "answer": "الإجابة",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "خويلد.png",
+          "answer": "الإجابة",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "رعد.png",
+          "answer": "الإجابة",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "روبي.png",
+          "answer": "الإجابة",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "سامر.png",
+          "answer": "الإجابة",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "وليد.png",
+          "answer": "الإجابة",
           "points": 10
         }
       ]
