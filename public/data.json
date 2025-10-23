@@ -3,63 +3,63 @@
     "الصور": {
       "questions": [
         {
-          "question": "من العضو ؟ ",
+          "question": "من العضو ؟",
           "image": "ammar.png",
           "answer": "عمار",
           "points": 10
         },
         {
-          "question": "ما هو الحيوان الظاهر في الصورة؟",
-          "image": "animal1.jpg",
-          "answer": "فهد",
+          "question": "من العضو ؟",
+          "image": "بدر.png",
+          "answer": "بدر",
           "points": 10
         },
         {
-          "question": "ما هو شعار العلامة التجارية هذا؟",
-          "image": "logo1.jpg",
-          "answer": "آبل",
+          "question": "من العضو ؟",
+          "image": "احمد ثورفين.png",
+          "answer": "احمد ثورفين",
           "points": 10
         },
         {
-          "question": "أي مدينة يظهر أفقها في الصورة؟",
-          "image": "city1.jpg",
-          "answer": "نيويورك",
+          "question": "من العضو ؟",
+          "image": "خويلد.png",
+          "answer": "خويلد",
           "points": 10
         },
         {
-          "question": "ما نوع هذه الزهرة؟",
-          "image": "flower1.jpg",
-          "answer": "دوار الشمس",
+          "question": "من العضو ؟",
+          "image": "رعد.png",
+          "answer": "رعد",
           "points": 10
         },
         {
-          "question": "ما هي اللوحة الشهيرة الظاهرة؟",
-          "image": "painting1.jpg",
-          "answer": "الموناليزا",
+          "question": "من العضو ؟",
+          "image": "سامر.png",
+          "answer": "سامر",
           "points": 10
         },
         {
-          "question": "ما هو طراز هذه السيارة؟",
-          "image": "car1.jpg",
-          "answer": "فيراري F40",
+          "question": "من العضو ؟",
+          "image": "وليد.png",
+          "answer": "وليد",
           "points": 10
         },
         {
-          "question": "علم أي دولة يظهر في الصورة؟",
-          "image": "flag1.jpg",
-          "answer": "كندا",
+          "question": "من العضو ؟",
+          "image": "عمار مرة ثانية.png",
+          "answer": "عمار",
           "points": 10
         },
         {
-          "question": "ما نوع العمارة الظاهرة؟",
-          "image": "building1.jpg",
-          "answer": "قوطية",
+          "question": "من هذا ؟",
+          "image": "بيسكي.png",
+          "answer": "بيسكي",
           "points": 10
         },
         {
-          "question": "ما هي الآلة الموسيقية الظاهرة؟",
-          "image": "instrument1.jpg",
-          "answer": "التشيلو",
+          "question": "من هذا ؟",
+          "image": "جيلي.png",
+          "answer": "جيلي",
           "points": 10
         }
       ]
