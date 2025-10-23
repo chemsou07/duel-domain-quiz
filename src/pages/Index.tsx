@@ -260,9 +260,9 @@ const Index = () => {
             {currentQuestion.image && (
               <div className="mb-6 rounded-lg overflow-hidden bg-secondary">
                 <img
-                  src={`/images/${currentQuestion.image}`}
+                  src={`/${currentQuestion.image}`}
                   alt="السؤال"
-                  className="w-full h-64 object-cover"
+                  className="w-full h-64 object-contain"
                   onError={(e) => {
                     (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800";
                   }}
