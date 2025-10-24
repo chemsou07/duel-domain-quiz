@@ -139,9 +139,9 @@
     "الرتب": {
       "questions": [
         {
-          "question": "ما هي أعلى رتبة عسكرية في الجيش الأمريكي؟",
-           "image": "amm2ar.png",
-          "answer": "جنرال خمس نجوم",
+          "question": "وش ذي الرتبة؟",
+           "image": "commander.jpg",
+          "answer": "الكوماندر",
           "points": 10
         },
         {
