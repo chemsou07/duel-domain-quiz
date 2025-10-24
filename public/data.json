@@ -163,8 +163,9 @@
           "points": 10
         },
         {
-          "question": "ما هي أعلى رتبة في البحرية الأمريكية؟",
-          "answer": "أدميرال الأسطول",
+          "question": "وش ذي الرتبة؟",
+          "image": "ceo.png",
+          "answer": "ceo/exuc",
           "points": 10
         },
         {
