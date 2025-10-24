@@ -4,7 +4,7 @@
       "questions": [
         {
           "question": "من هذا؟",
-          "image": "public/bader.png",
+          "image": "bader.png",
           "answer": "الإجابة",
           "points": 10
         },
