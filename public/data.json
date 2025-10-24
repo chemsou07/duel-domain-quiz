@@ -4,62 +4,80 @@
       "questions": [
         {
           "question": "من هذا؟",
+          "image": "ammar.png",
+          "answer": "عمار",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
           "image": "bader.png",
-          "answer": "الإجابة",
+          "answer": "بدر",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "احمد ثورفين.png",
-          "answer": "الإجابة",
-          "points": 10
-        },
-        {
-          "question": "من هذا؟",
-          "image": "بدر.png",
-          "answer": "الإجابة",
+          "answer": "أحمد ثورفين",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "بيسكي.png",
-          "answer": "الإجابة",
+          "answer": "بيسكي",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "جيلي.png",
-          "answer": "الإجابة",
+          "answer": "جيلي",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "خويلد.png",
-          "answer": "الإجابة",
+          "answer": "خويلد",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "رعد.png",
-          "answer": "الإجابة",
+          "answer": "رعد",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "روبي.png",
-          "answer": "الإجابة",
+          "answer": "روبي",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "سامر.png",
-          "answer": "الإجابة",
+          "answer": "سامر",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "سفاخ.png",
+          "answer": "سفاخ",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "كورا.png",
+          "answer": "كورا",
+          "points": 10
+        },
+        {
+          "question": "من هذا؟",
+          "image": "ناناو.png",
+          "answer": "ناناو",
           "points": 10
         },
         {
           "question": "من هذا؟",
           "image": "وليد.png",
-          "answer": "الإجابة",
+          "answer": "وليد",
           "points": 10
         }
       ]
