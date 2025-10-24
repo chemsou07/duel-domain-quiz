@@ -13,7 +13,6 @@ interface Question {
 }
 
 interface Category {
-  image?: string;
   questions: Question[];
 }
 
@@ -63,7 +62,6 @@ const Index = () => {
   };
 
   const currentQuestion = quizData?.categories[selectedCategory]?.questions[currentQuestionIndex];
-  const currentCategoryImage = quizData?.categories[selectedCategory]?.image;
 
   const awardPoints = (team: 1 | 2, points: number) => {
     if (team === 1) {
@@ -219,34 +217,19 @@ const Index = () => {
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {Object.keys(quizData.categories).map((category, index) => {
-              const categoryImage = quizData.categories[category].image;
-              return (
-                <Card
-                  key={category}
-                  onClick={() => selectCategory(category)}
-                  className="bg-gradient-card border-border p-8 cursor-pointer hover:scale-105 transition-all shadow-card hover:shadow-glow group animate-fade-in"
-                  style={{ animationDelay: `${index * 100}ms` }}
-                >
-                  {categoryImage && (
-                    <div className="mb-4 rounded-lg overflow-hidden bg-secondary">
-                      <img
-                        src={`/images/${categoryImage}`}
-                        alt={category}
-                        className="w-full h-48 object-cover"
-                        onError={(e) => {
-                          (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800";
-                        }}
-                      />
-                    </div>
-                  )}
-                  <h3 className="text-2xl font-bold text-foreground group-hover:text-primary transition-colors">
-                    {category}
-                  </h3>
-                  <p className="text-muted-foreground mt-2">10 أسئلة • 10 نقاط لكل سؤال</p>
-                </Card>
-              );
-            })}
+            {Object.keys(quizData.categories).map((category, index) => (
+              <Card
+                key={category}
+                onClick={() => selectCategory(category)}
+                className="bg-gradient-card border-border p-8 cursor-pointer hover:scale-105 transition-all shadow-card hover:shadow-glow group animate-fade-in"
+                style={{ animationDelay: `${index * 100}ms` }}
+              >
+                <h3 className="text-2xl font-bold text-foreground group-hover:text-primary transition-colors">
+                  {category}
+                </h3>
+                <p className="text-muted-foreground mt-2">10 أسئلة • 10 نقاط لكل سؤال</p>
+              </Card>
+            ))}
           </div>
         </div>
       )}
@@ -272,19 +255,6 @@ const Index = () => {
           </div>
 
           <Card className="bg-gradient-card border-border p-8 shadow-card mb-6">
-            {currentCategoryImage && (
-              <div className="mb-4 rounded-lg overflow-hidden bg-secondary">
-                <img
-                  src={`/images/${currentCategoryImage}`}
-                  alt={selectedCategory}
-                  className="w-full h-48 object-cover mb-4"
-                  onError={(e) => {
-                    (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800";
-                  }}
-                />
-              </div>
-            )}
-
             <h3 className="text-2xl font-bold text-foreground mb-6">{currentQuestion.question}</h3>
 
             {currentQuestion.image && (
@@ -410,5 +380,3 @@ const Index = () => {
 };
 
 export default Index;
-index.tsx
-18 KB
