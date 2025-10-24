@@ -170,8 +170,9 @@
           "points": 10
         },
         {
-          "question": "ما هو ثاني أعلى جبل في العالم؟",
-          "answer": "K2",
+          "question": "وش ذي الرتبة؟",
+          "image": "vc event.jpg",
+          "answer": "vc event maker",
           "points": 10
         },
         {
