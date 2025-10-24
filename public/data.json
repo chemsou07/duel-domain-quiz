@@ -157,8 +157,9 @@
           "points": 10
         },
         {
-          "question": "في البوكر، أي يد تحتل مرتبة أعلى: فل هاوس أم فلاش؟",
-          "answer": "فل هاوس",
+          "question": "وش ذي الرتبة؟",
+          "image": "magma.jpg",
+          "answer": "magma",
           "points": 10
         },
         {
