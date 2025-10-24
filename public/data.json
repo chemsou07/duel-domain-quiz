@@ -145,8 +145,9 @@
           "points": 10
         },
         {
-          "question": "في الشطرنج، أي قطعة تتحرك على شكل حرف L؟",
-          "answer": "الحصان",
+          "question": "وش ذي الرتبة؟",
+          "image": "admin.jpg",
+          "answer": "الادمن",
           "points": 10
         },
         {
